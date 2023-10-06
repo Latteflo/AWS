@@ -11,12 +11,10 @@
 - **AWS Elastic Beanstalk**:
   - Platform as a Service (PaaS) for quick deployment, scaling, and management of applications.
   - Supported Servers: Apache HTTP Server, Microsoft IIS.
-  - Charges: None.
 
 - **AWS EC2 Autoscaling**:
   - Maintains application availability by adding or removing EC2 instances based on defined conditions.
   - Tracks instance health and terminates unhealthy instances.
-  - Charges: None.
 
 ## Container Services
 
